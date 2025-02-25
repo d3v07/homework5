@@ -1,4 +1,6 @@
-# Project Overview
+# Project Overview (Multiple branches with different features)
+
+## New features of commands and plugins added in different branches, check them out for grading
 
 ## This project covers OOP principles, structured coding, and robust testing with pytest.
 
